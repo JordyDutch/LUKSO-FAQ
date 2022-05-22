@@ -18,7 +18,7 @@
 ```
 ```
 
-#### What's Lukso's vision regarding Ethereum? Will Lukso keep building and improving standards and tools on Ethereum as it's doing now or wil it eventually split and follow it's own path?
+#### What's Lukso's vision regarding the network? Will Lukso keep following the Ethereum network updates or wil it eventually split and follow it's own path again after mainnet?
 ```
 ```
 
@@ -125,6 +125,8 @@ Like is it logical to assume it will follow the same trend as ETH. Does a high A
 ```
 
 #### What is the slash for being offline for X hours?
+```
+```
 
 #### Will slashes be depending on the amount of funds or depending purely on offline time?
 
