@@ -77,8 +77,15 @@ udp:30303
 ```
 
 #### How many tokens do I have to deposit, is there a minimum of validators you need to run?
+```
+```
 
 #### Is there a maximum of how many validators are alowed to be runned by 1 person, regarding decentralization?
+```
+```
+
+#### Is there any difference in performance and returns running multiple validators in 1 or in 2  nodes? 
+Example: 1 node with 200 validators or 2 nodes with 100 validators each.
 ```
 ```
 
