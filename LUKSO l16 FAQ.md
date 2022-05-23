@@ -18,39 +18,38 @@
 ```
 ```
 
-#### What is Lukso’s vision regarding the network? Will Lukso keep following the Ethereum network updates or will it eventually split and follow its own path again after mainnet?
+#### What is Lukso’s vision regarding the network? Will Lukso keep following the Ethereum network updates or eventually split and follow its own path again after mainnet?
 ```
 ```
-
 
 #### Can I stake my tokens without being a validator?
 ```
 ```
 
-#### Is LUKSO going to implement the EIP-1559 protocol? Are there any other protocols LUKSO want to implement on mainnet?
+#### Is LUKSO going to implement the EIP-1559 protocol?
+```
+```
+
+#### Are there any other protocols LUKSO wants to implement on mainnet?
 ```
 ```
 
 ### NODE
 
-#### How can I set up the node?
+#### How can I set up a node?
 ```
 ```
 
-#### Is there anything I need to be aware of besides the machine?
-```
-```
-
-#### Will lower latency positively influence my rewards when I validate transactions faster?
+#### Will lower latency positively influence my rewards?
 
 ```
 ```
 
-#### How to setup my node to maximalise my peers?
+#### How to setup my node to maximize my peers?
 ```
 ```
 
-#### Why is there a difference between my peers on execution stats and consensus stats website?
+#### Why is there a difference between my peers on the execution stats and consensus stats website?
 ```
 ```
 
@@ -69,34 +68,34 @@ tcp:13000
 udp:12000
 udp:30303
 ```
-##### How can I open my ports? Can you describe it for Mac and Linux
+##### How can I open my ports on my node machine? Can you describe it for Mac and Linux
 ```
 ```
+
+:::info
+NOTE: Make sure you also forward those ports in your router.
+:::
 
 ### VALIDATOR
 
-#### Can we call it confirmed that 1 validator = 32 LYX on mainnet?
+#### Can we confirm 1 validator = 32 LYX on mainnet?
 ```
 ```
 
-#### Are the tokens locked for a certain amount of time?
+#### When will it be possible to withdraw your LYX from your validator and how?
 ```
 ```
 
-#### Is it possible to be a validator for a period shorter than 12 months?
+#### Is there a minimum of validators you need to run?
 ```
 ```
 
-#### How many tokens do I have to deposit, is there a minimum of validators you need to run?
+#### Is there a maximum limit on how many validators one node can run, regarding decentralization?
 ```
 ```
 
-#### Is there a maximum limit on how many validators one person can run, regarding decentralization?
-```
-```
-
-#### Is there any difference in performance and returns running multiple validators in 1 or in 2  nodes? 
-Example: 1 node with 200 validators or 2 nodes with 100 validators each.
+#### Is there an advantage to splitting validators across multiple nodes instead of running all validators on one node?
+Example: One node with 200 validators or two nodes with 100 validators each.
 ```
 ```
 
@@ -104,7 +103,7 @@ Example: 1 node with 200 validators or 2 nodes with 100 validators each.
 ```
 ```
 
-#### Is there a difference between creating one validator with lots of funds and multiple validators with minimal/split funds?
+#### Do you receive higher returns If you deposit more than 32 LYX in a validator?
 ```
 ```
 
@@ -119,11 +118,6 @@ Example: 1 node with 200 validators or 2 nodes with 100 validators each.
 ```
 ```
 
-#### When will it be possible to withdraw your LYX from your validator and how?
-
-```
-```
-
 #### Is it possible to check if your validator is running correctly and what the rewards are without using Grafana/Prometheus?
 ```
 ```
@@ -135,29 +129,24 @@ Can we assume it will follow the same trend as ETH?
 ```
 ```
 
-#### What is the slash for being offline for X hours?
-```
-```
-
-#### Will dependent be depending on the amount of funds or depending purely on offline time?
+#### How much am I penalized for being offline?
 ```
 ```
 
 ### SECURITY
 
-#### What is best practice in terms of node security. What measures to take?
+#### Is there a guide for node security best practices?
 ```
 ```
 
-#### Can my location be tracked as a validator/node?
+#### Can my node location be tracked?
 ``` 
 ```
 
-#### Is it possible to tell how many validators are running on a node?
+#### Is it possible for someone to see how many validators are running on my node?
 ```
 ```
 
-#### Why do we need to forward ports and what are the security risks of opening them?
+#### Why do we need to forward ports? Are there security risks?
 ```
 ```
-
