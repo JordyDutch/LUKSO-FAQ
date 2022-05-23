@@ -18,7 +18,8 @@
 ```
 ```
 
-#### What is Lukso’s vision regarding the network? Will Lukso keep following the Ethereum network updates or eventually split and follow its own path again after mainnet?
+#### What is Lukso’s vision regarding the network? Will Lukso keep following the Ethereum network updates or eventually split and follow its own path again after mainnet with the Pandora/Vanguard/Orchestrator clients?
+
 ```
 ```
 
