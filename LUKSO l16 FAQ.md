@@ -2,7 +2,7 @@
 
 ### NETWORK
 
-#### What will be the expected block and epoch time?
+#### What are the expected block and epoch times?
 ```
 ```
 
@@ -112,10 +112,11 @@ Example: One node with 200 validators or two nodes with 100 validators each.
 ```
 ```
 
+#### Can you explain the process for withdrawing and selling rewards, while still keeping the validator running?
+```
+```
+
 #### How should the logs look in each case to have certainty everything runs smoothly?
-```
-```
-#### What is best practice in terms of performance, how to optimize my returns?
 ```
 ```
 
