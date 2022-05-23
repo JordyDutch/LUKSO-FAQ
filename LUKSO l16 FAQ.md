@@ -1,4 +1,4 @@
-## LUKSO l16 - FAQ
+## LUKSO L16 - FAQ
 
 ### NETWORK
 
@@ -14,16 +14,20 @@
 ```
 ```
 
-#### Will there be other supported clients besides geth as ethereum does it?
+#### Will other clients be supported besides geth (in the same way as Ethereum)?
 ```
 ```
 
-#### What's Lukso's vision regarding Ethereum? Will Lukso keep building and improving standards and tools on Ethereum as it's doing now or wil it eventually split and follow it's own path?
+#### What is Lukso’s vision regarding the network? Will Lukso keep following the Ethereum network updates or will it eventually split and follow its own path again after mainnet?
 ```
 ```
 
 
-#### Will it be possible to stake your coins without running a validator?
+#### Can I stake my tokens without being a validator?
+```
+```
+
+#### Is LUKSO going to implement the EIP-1559 protocol? Are there any other protocols LUKSO want to implement on mainnet?
 ```
 ```
 
@@ -37,12 +41,16 @@
 ```
 ```
 
-#### Does a low ping positively influence your rewards because you validate transactions faster?
+#### Will lower latency positively influence my rewards when I validate transactions faster?
 
 ```
 ```
 
 #### How to setup my node to maximalise my peers?
+```
+```
+
+#### Why is there a difference between my peers on execution stats and consensus stats website?
 ```
 ```
 
@@ -60,6 +68,9 @@ tcp:4000
 tcp:13000
 udp:12000
 udp:30303
+```
+##### How can I open my ports? Can you describe it for Mac and Linux
+```
 ```
 
 ### VALIDATOR
@@ -80,7 +91,7 @@ udp:30303
 ```
 ```
 
-#### Is there a maximum of how many validators are alowed to be runned by 1 person, regarding decentralization?
+#### Is there a maximum limit on how many validators one person can run, regarding decentralization?
 ```
 ```
 
@@ -104,29 +115,33 @@ Example: 1 node with 200 validators or 2 nodes with 100 validators each.
 #### How should the logs look in each case to have certainty everything runs smoothly?
 ```
 ```
-#### What is best practice in terms of performance, how to optimise my returns?
+#### What is best practice in terms of performance, how to optimize my returns?
 ```
 ```
 
-#### When will it be possible to withdrawal your LYX from your validator and how?
+#### When will it be possible to withdraw your LYX from your validator and how?
 
 ```
 ```
 
-#### Is it possible to check if your validator is running well and what the rewards are without using Grafana/Prometheus?
+#### Is it possible to check if your validator is running correctly and what the rewards are without using Grafana/Prometheus?
 ```
 ```
 
-#### What can you tell us already something about the expected returns?
+#### Can you tell us something about the expected rewards APY curve?
 
-Like is it logical to assume it will follow the same trend as ETH. Does a high APY just create incentive for more people to stake and, in turn, lower the APY?
+Can we assume it will follow the same trend as ETH?
 
 ```
 ```
 
 #### What is the slash for being offline for X hours?
+```
+```
 
-#### Will slashes be depending on the amount of funds or depending purely on offline time?
+#### Will dependent be depending on the amount of funds or depending purely on offline time?
+```
+```
 
 ### SECURITY
 
@@ -134,7 +149,7 @@ Like is it logical to assume it will follow the same trend as ETH. Does a high A
 ```
 ```
 
-#### Is it possible to track the location where a node is based?
+#### Can my location be tracked as a validator/node?
 ``` 
 ```
 
@@ -145,3 +160,4 @@ Like is it logical to assume it will follow the same trend as ETH. Does a high A
 #### Why do we need to forward ports and what are the security risks of opening them?
 ```
 ```
+
